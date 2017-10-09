@@ -5,8 +5,8 @@
  "description": "bot-showtime",
  "version": "0.0.1",
  "min_os_version_major": 4,
- "url": "https://raw.githubusercontent.com/happyplant/bot-showtime/master/manifest.json",
+ "url": "http://wx.qqhupai.com/manifest.json",
  "zip": "https://github.com/happyplant/bot-showtime/archive/master.zip",
  "executable": "python",
- "args": ["bot-showtime/showtime.py"]
+ "args": ["bot-showtime-master/showtime.py"]
 }
